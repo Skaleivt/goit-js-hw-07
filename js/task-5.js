@@ -1,4 +1,4 @@
-const changeColor = document.querySelector('.widget');
+const changeColor = document.querySelector('body');
 const textColorSpan = document.querySelector('.color')
 
 changeColor.addEventListener('click', function () {
